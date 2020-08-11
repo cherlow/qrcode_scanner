@@ -17,7 +17,7 @@ dependencies:
   image_picker: ^0.6.1+4
 
   qrscan:
-    path: ../
+    git: https://github.com/cherlow/qrcode_scanner.git
 
 dev_dependencies:
   flutter_test:

@@ -21,7 +21,7 @@
         app:inner_corner_length="20dp"
         app:inner_corner_width="4dp"
         app:inner_scan_bitmap="@drawable/scan_blue"
-        app:inner_scan_speed="200"
+        app:inner_scan_speed="5"
         app:inner_scan_iscircle="true"
         />
 
